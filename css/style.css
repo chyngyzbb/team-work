@@ -21,3 +21,9 @@ a{
     margin: 0 auto;
     padding: 0 20px;
 }
+#container{
+    width: 90%;
+    max-width: 1202px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
